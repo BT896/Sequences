@@ -1,4 +1,5 @@
-# git test
+# PDB tutorial 8
+
 # Reading a fasta file
 class FastaFile:
     # Constructor
