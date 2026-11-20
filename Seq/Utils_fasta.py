@@ -1,3 +1,4 @@
+# git test
 # Reading a fasta file
 class FastaFile:
     # Constructor
